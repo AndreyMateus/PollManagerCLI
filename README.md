@@ -3,6 +3,7 @@ Resume: A simple Poll Manager for your votations, is open for you create your qu
 
 
 # The Design of project from UML
+<img src="./Dark_Mode_PollManagerCLI_Class_Diagram_UML.jpg">
 
 
 # What is the objective of the project ?
