@@ -2,8 +2,8 @@
 Resume: A simple Poll Manager for your votations, is open for you create your questions and manager all response from votations.
 
 
-# The Design of project from UML
-<img src="./Dark_Mode_PollManagerCLI_Class_Diagram_UML.jpg">
+# The Design of project in UML
+<img src="PollManagerCLI_Class_Diagram_UML.png">
 
 
 # What is the objective of the project ?
