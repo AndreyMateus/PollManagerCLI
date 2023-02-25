@@ -2,12 +2,11 @@
 **Resume: A simple Poll Manager for your votations, is open for you create your questions and manager all response from votations.**
 
 ___
+
 ### Summary
 1. **[The Design of project in UML ](#diagram)**
 2. **[What is the objective of this project ?](#objective)**
 3. **[How I can use this ?](#warnings)**
-4. **[Warnings !!!](#use)**
-
 ___
 
 ## ***The Design of project in UML***
@@ -28,15 +27,6 @@ ___
 ## How I can use this ?
 **When the project is complete, this category will be answered.**
 <span id="use"></span>
-
-___
-
-### Too have a tutorial video in Português from Brazil, but too have legends.
-
->**Tutorial in video -> [Click Here (X) ](https://#)**
-
->**And we also have a Readme File in Brazilian Portuguese Language -> [Click Here (X) ](https://#)**
-<span id="warnings"></span>
 _____
 
 ><span style="font-family:Papyrus; font-size:2em;">Thanks for reading this far ! =)</span>
