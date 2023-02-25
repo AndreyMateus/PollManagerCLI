@@ -1,5 +1,4 @@
-﻿using System.Survey.Option;
-namespace System.Survey.OptionScore;
+﻿namespace System.Survey;
 /// <summary>
 	/// Votos de uma opção.
 	/// </summary>

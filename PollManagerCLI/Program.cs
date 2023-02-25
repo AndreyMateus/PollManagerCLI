@@ -1,6 +1,4 @@
-﻿using System.Survey.UI;
-
-namespace System.Survey.Program;
+﻿namespace System.Survey.Program;
 class Program
 	{
 		static void Main()

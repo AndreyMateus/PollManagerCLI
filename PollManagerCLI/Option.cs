@@ -1,6 +1,4 @@
-﻿using System.Survey.IO;
-
-namespace System.Survey.Option;
+﻿namespace System.Survey;
 /// <summary>
 	/// Opção de uma enquete.
 	/// </summary>

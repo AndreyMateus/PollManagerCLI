@@ -1,4 +1,4 @@
-﻿namespace System.Survey.IO;
+﻿namespace System.Survey;
 /// <summary>
 	/// Agrupa operações de I/O da aplicação.
 	/// </summary>

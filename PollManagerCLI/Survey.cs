@@ -1,7 +1,4 @@
-﻿using System.Survey.Option;
-using System.Text;
-using System.Survey.IO;
-
+﻿using System.Text;
 namespace System.Survey;
 
 	/// <summary>

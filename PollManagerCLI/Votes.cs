@@ -1,6 +1,4 @@
-﻿using System.Survey.IO;
-
-namespace System.Survey.Votes;
+﻿namespace System.Survey;
 /// <summary>
 	/// Enquete.
 	/// </summary>

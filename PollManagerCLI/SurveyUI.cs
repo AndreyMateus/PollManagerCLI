@@ -1,5 +1,4 @@
-﻿using System.Survey.Option;
-namespace System.Survey.UI;
+﻿namespace System.Survey;
 
 	/// <summary>
 	/// Gerencia a interface gráfica da aplicação.
